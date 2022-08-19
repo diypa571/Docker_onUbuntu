@@ -1,5 +1,5 @@
 # Docker_onUbuntu
 
 
- #apt update
- #aasdasdad
+ # apt update
+ # aasdasdad
