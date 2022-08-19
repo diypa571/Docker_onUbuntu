@@ -1,5 +1,6 @@
-# Docker_onUbuntu
+# Installing Docker on Ubuntu
 
 
  # apt update
- # aasdasdad
+ # apt install docker.io
+ # docker run hello-world
